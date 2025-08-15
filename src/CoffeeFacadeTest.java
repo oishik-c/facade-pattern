@@ -10,5 +10,9 @@ public class CoffeeFacadeTest {
 
 //        Making an Iced Coffee Next
         coffeeFacade.create_iced_coffee();
+        System.out.println();
+
+//
+        coffeeFacade.create_americano();
     }
 }
